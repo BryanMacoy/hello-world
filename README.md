@@ -24,11 +24,11 @@ SOmething aboout myself is that i enjoy learning new things.
   .red-box {
     background-color: crimson;
     color: #fff;
-    padding-top: 40px;
+    padding-top: 40px;              <!--   or  padding: 40px 20px 10px 40px; -->
     padding-right: 20px;
     padding-bottom: 20px;
     padding-left: 40px;
-    margin-top: 40px;
+    margin-top: 40px;                 <!--   or margin: 40px 20px 10px 40px; -->
     margin-right: 20px;
     margin-bottom: 20px;
     margin-left: 40px;
